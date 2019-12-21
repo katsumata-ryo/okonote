@@ -62,3 +62,8 @@ WEBでかんたんな育児ノートをメモ記録することが出来ます�
   * 識別名
 * Event Type
 * Daily Note
+
+## SYSTEM
+
+* RAILS (API?)
+* REACT or Vue (UI)
