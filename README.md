@@ -1,24 +1,25 @@
-# README
+# OKONOTE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Overview
 
-Things you may want to cover:
+OKONOTE は育児ノートをWEBで再現し
+外出先でも記録できるように使えるようにするアプリケーションです。
 
-* Ruby version
+## Design
 
-* System dependencies
+### できること
 
-* Configuration
+WEBでかんたんな育児ノートをメモ記録することが出来ます。
 
-* Database creation
+### うれしいこと
 
-* Database initialization
+* 携帯で外出先から片手で更新が可能
+* ミルクなど期間指定のないイベントはボタン一つで現在時刻で更新が可能
 
-* How to run the test suite
+### やらないこと
 
-* Services (job queues, cache servers, search engines, etc.)
+まず最低限作成するところを目指しているので現在以下は実装を検討していません。
+開発の状況によって再検討が入るかもしれません。
 
-* Deployment instructions
-
-* ...
+* カレンダー表示(最初はメモ表示のみ)
+* リッチなインターフェイス
